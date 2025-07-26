@@ -227,7 +227,7 @@ Tabela criada para organização pessoal ao longo do desenvolvimento!
 
 ## 9) Testes 
 
-Pelo site ser **simples**, a base **não tão extensa** e o projeto ser um **desafio pontual**, optei por realizar **testes manuais** ao longo do desenvolvimento (sem reprodutibilidade/automação). O foco foi garantir que o comportamento estivesse correto do ponto de vista do usuário e que os contratos entre as camadas se mantivessem estáveis.
+Pelo site ser **simples**, a base **não tão extensa** e o projeto ser um **desafio pontual**, optei por realizar **testes manuais** ao longo do desenvolvimento, o que pareceu ser mais produtivo nesse caso. O foco foi garantir que o comportamento estivesse correto do ponto de vista do usuário e que os contratos entre as camadas se mantivessem estáveis.
 
 **O que foi verificado manualmente:**
 
