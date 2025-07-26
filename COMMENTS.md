@@ -1,4 +1,4 @@
-# COMMENTS.md <br>Desafio: Auto-completar na Busca - Jusbrasil
+# COMMENTS/README markdown <br>Desafio: Auto-completar na Busca - Jusbrasil
 
 > Participante: Caio Santana Trigueiro.
 
