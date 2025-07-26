@@ -10,9 +10,7 @@
 
 ## 1) Domínio escolhido
 
-Apesar da temática da empresa e do exemplo dado no desafio, não existe uma especificação qual universo semântico deve alimentar o autocomplete.  
-
-Então optei por fugir um pouco do mundo jurídico ir para **um domínio fechado de Cinema Brasileiro**, abrangendo:
+Apesar da temática da empresa e do exemplo dado no desafio, não existe uma especificação qual universo semântico deve alimentar o autocomplete, então optei por fugir um pouco do mundo jurídico ir para **um domínio fechado de Cinema Brasileiro**, abrangendo:
 
 * **Filmes brasileiros** — título original em PT‑BR + título internacional em EN;  
 * **Diretores(as)**;  
